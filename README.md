@@ -1,2 +1,2 @@
 # MergeConflicts
-I hope this will create a conflict
+Let's see what happens here
